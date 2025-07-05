@@ -34,7 +34,7 @@ img {
 
 h1,
 p {
-  padding-bottom: 16px;
+  padding-bottom: 1rem;
 }
 
 p {
@@ -65,10 +65,10 @@ p {
   transform: translate(-50%, -50%);
 
   width: 90%;
-  max-width: 320px;
+  max-width: 20rem;
   margin: 0 auto;
   padding: 1em;
-  border-radius: 20px;
+  border-radius: 1.25rem;
 
   background-color: var(--White);
   box-shadow: 0px 8px 20px 1px hsl(216, 15%, 48%, 0.1);
